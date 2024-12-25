@@ -7,6 +7,7 @@ Anggota :
 - Ahmad Refi Widi Katibin (103012300231)
 - Farraz Raya Abdillah (103012300149)
 
+---
 
 ### Deskripsi Studi Kasus Permasalahan
 Aplikasi ini dirancang untuk menjawab tantangan dalam penjadwalan perawat melalui implementasi metode iteratif dan rekursif. Setiap hari perawat dibagi menjadi dua shift terpisah selama 12 jam, yaitu shift siang dan malam, dengan sejumlah perawat yang dibutuhkan untuk masing-masing shift. 
