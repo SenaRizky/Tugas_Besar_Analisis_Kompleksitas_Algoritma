@@ -1,0 +1,6 @@
+PuLP==2.9.0
+scipy
+pandas
+numpy
+seaborn
+matplotlib
